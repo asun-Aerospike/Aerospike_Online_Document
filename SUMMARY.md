@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [技术[TECHNOLOGY]](teschenology/ji_672f5b_technology_].md)
+* [技术[TECHNOLOGY]](technology/ji_672f5b_technology_].md)
    * [架构- 如何工作](teschenology/architecture/jia_6784-_ru_he_gong_zuo.md)
        * [数据管理](teschenology/architecture/shu_ju_guan_li.md)
            * [混合存储](teschenology/architecture/hun_he_cun_chu.md)
